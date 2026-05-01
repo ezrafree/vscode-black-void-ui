@@ -1,4 +1,4 @@
-# Quiet Mind UI
+# Black Void UI
 
 Near-black UI chrome overrides for VS Code. Works on top of **any** syntax theme.
 
@@ -14,8 +14,8 @@ Customizes the title bar, activity bar, sidebar, tab bar, status bar, terminal, 
 
 ## Install
 
-Search "Quiet Mind UI" in the VS Code Extensions panel, or:
+Search "Black Void UI" in the VS Code Extensions panel, or:
 
 ```bash
-code --install-extension ezrafree.quiet-mind-ui
+code --install-extension ezrafree.black-void-ui
 ```
