@@ -2,7 +2,7 @@
   "name": "black-void-ui",
   "displayName": "Black Void UI",
   "description": "Near-black UI chrome overrides for VS Code. Works on top of any syntax theme.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "ezrafree",
   "engines": {
     "vscode": "^1.70.0"

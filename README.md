@@ -1,5 +1,14 @@
 # Black Void UI
 
+<p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=ezrafree.black-void-ui">
+    <img src="https://vsmarketplacebadges.dev/version/ezrafree.black-void-ui.svg" alt="Version" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=ezrafree.black-void-ui">
+    <img src="https://vsmarketplacebadges.dev/installs/ezrafree.black-void-ui.svg" alt="Installs" />
+  </a>
+</p>
+
 Near-black UI chrome overrides for VS Code. Works on top of **any** syntax theme.
 
 Customizes the title bar, activity bar, sidebar, tab bar, status bar, terminal, panels, and more — leaving syntax highlighting entirely up to your active color theme.
