@@ -28,3 +28,15 @@ Search "Black Void UI" in the VS Code Extensions panel, or:
 ```bash
 code --install-extension ezrafree.black-void-ui
 ```
+
+## My Other Extensions
+
+You can check out my other extensions on the Visual Studio Marketplace:
+
+https://marketplace.visualstudio.com/publishers/ezrafree
+
+## My Other Projects
+
+You can check out my other projects on my portfolio:
+
+https://www.quietmindcreative.com/portfolio/
